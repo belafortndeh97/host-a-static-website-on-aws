@@ -85,4 +85,4 @@ systemctl start httpd
 
 ## Conclusion
 
-This project provides a robust infrastructure for hosting a static website on AWS, combining various services to achieve high availability, security, and scalability. Users can deploy the provided script to set up the environment and host their static web applications effectively. For any issues or improvements, please refer to the GitHub repository or contact the project owner.
+This project provides a robust infrastructure for hosting a static website on AWS, combining various services to achieve high availability, security, and scalability. Users can deploy the provided script to set up the environment and host their static web applications effectively. 
